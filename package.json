@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "server.js",
 	"scripts": {
+		"build": "pnpm install",
 		"dev": "node --watch server.js",
 		"start": "node server.js"
 	},
